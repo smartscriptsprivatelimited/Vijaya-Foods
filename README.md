@@ -1,4 +1,4 @@
-# Vijaya-Foods
+# Vijaya Foods
 
 **Client:** Smt. Shilpa Rajeev Huzurbazar  
 **Website:** vijaayafoods.com  
