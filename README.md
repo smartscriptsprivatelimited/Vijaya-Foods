@@ -45,7 +45,7 @@ To create an easy-to-use, visually stunning, and completely functional e-commerc
 
 ### 📈 Results  
 
-📌65% increase in average session length after launch
-📌40% boost in online orders in the first 3 months
-📌Improved bounce rate significantly due to intuitive design and quicker loading
-📌Improved brand image and customer confidence through an upgraded digital interface
+📌65% increase in average session length after launch  
+📌40% boost in online orders in the first 3 months  
+📌Improved bounce rate significantly due to intuitive design and quicker loading  
+📌Improved brand image and customer confidence through an upgraded digital interface  
